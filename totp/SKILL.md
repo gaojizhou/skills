@@ -1,6 +1,6 @@
-**name:** totp
-**description:** Manage Time-based One-Time Passwords (TOTP / Two-Factor Authentication / 2FA / MFA). This skill must be used whenever the user needs to create, generate, read, import, or manage TOTP verification codes. Trigger scenarios include: "help me set up two-factor authentication", "generate a TOTP key", "I need a 2FA code", "set up Google Authenticator", "generate a one-time password", "view my verification code", and any request involving TOTP / OTP / two-step verification / Multi-Factor Authentication (MFA). Even if the user simply says "help me add verification", this skill should be triggered.
-
+---
+name: totp
+description: Manage Time-based One-Time Passwords (TOTP / Two-Factor Authentication / 2FA / MFA). This skill must be used whenever the user needs to create, generate, read, import, or manage TOTP verification codes. Trigger scenarios include: "help me set up two-factor authentication", "generate a TOTP key", "I need a 2FA code", "set up Google Authenticator", "generate a one-time password", "view my verification code", and any request involving TOTP / OTP / two-step verification / Multi-Factor Authentication (MFA). Even if the user simply says "help me add verification", this skill should be triggered.
 ---
 
 ## Core Script
